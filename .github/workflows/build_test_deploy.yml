@@ -62,4 +62,3 @@ jobs:
               run: bun run lint-ci
             - name: Spellcheck
               run: bun run spellcheck
-k
