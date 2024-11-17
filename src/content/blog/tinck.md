@@ -87,7 +87,7 @@ T-test: 2 biến định lượng
 
 * Quan sát hình bên dưới, bạn thấy trong Navigation Pane có những dòng trống, tại sao?
   **Có thể do định dạng của dòng trên quy định Style for following paragraph là heading**
-
+  
   ![](/notable/tinck-nav.png)
 
 * Trong PPT, để tạo chú thích thì dùng chức năng nào? **Insert Shapes**

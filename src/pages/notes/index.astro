@@ -22,7 +22,8 @@ const posts = (await getCollection('blog')).sort(
 			<section>
 				<ul class="mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 p-5 text-center max-w-max gap-8">
 					{
-						posts.map((post) => (
+						posts.map((post) => { if (import.meta.env.DEV || post.data.draft !== true) {
+                            return (
 							<li class="rounded-lg bg-white border-black shadow-lg drop-shadow-md hover:shadow-xl hover:-translate-y-2 pb-4 duration-200 overflow-hidden max-w-none">
 								<a class="no-underline font-GrowingGarden" href={`/notable/notes/${post.slug}/`}>
 									<img width={720} height={360} class="overflow-hidden w-96 h-60" src=`/notable/${post.data.heroImage}` alt="" />
@@ -32,7 +33,7 @@ const posts = (await getCollection('blog')).sort(
 									</p>
 								</a>
 							</li>
-						))
+						)}})
 					}
 				</ul>
 			</section>

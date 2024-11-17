@@ -12,11 +12,13 @@ export async function getStaticPaths() {
       return data.headings;
     })
   );
+  if (import.meta.env.DEV || post.data.draft !== true) {
+      return posts.map((post, index) => ({
+        params: { slug: post.slug },
+        props: { post, headings: headings[index] },
+      }));
+  }
 
-  return posts.map((post, index) => ({
-    params: { slug: post.slug },
-    props: { post, headings: headings[index] },
-  }));
 }
 
 type Props = {
