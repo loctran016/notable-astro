@@ -15,16 +15,16 @@ tags: ['Hoá Sinh']
 ### 1). Cromoprotein
 
 * Protein tạp, nhóm ngoại là chất màu, chia làm 2 loại là có nhóm ngoại là/k là nhân porphyrin
-
+  
   #### a. Porphyrinoprotein: nhóm ngoại là nhân porphyrin
-
+  
   Thí dụ :
    Hb (hemoglobin): sắc tố đỏ của hồng cầu.
    Myoglobin: Sắc tố hô hấp trong tế bào cơ ở động vật có xương sống.
    Một số oxydoreductase: các enzym xúc tác phản ứng oxy hóa khử như cytocrom
-
+  
   #### b. Cromoprotein có nhóm ngoại không phải là nhân porphyrin
-
+  
   Thí dụ:
    Flavoprotein  chứa riboflavin
    Ferritin  chứa sắt

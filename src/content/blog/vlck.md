@@ -44,7 +44,7 @@ Hai điều kiện để vật rắn ở trạng thái cân bằng tĩnh:
 
 ### Đòn bẩy
 
-![lever](/notable/vlls-lever.png)
+![lever](/notable/vlck-lever.png)
 
 Đòn bẩy loại 1:
 
@@ -65,7 +65,7 @@ $ 𝐹_𝑠  = 𝐹 . cos(\theta). $ -->
 1J = 1 N.m
 
 * Động năng $ K = \frac{1}2 mv^2$
-  
+
   <!-- * $ Động năng K = \frac{1}2 mv^2$ -->
 
 * Thế năng $ U = mgh $
@@ -105,26 +105,31 @@ $ a = v' = x'' = - \omega ^2x $
 
 Gia tốc ngược pha với li độ và sớm pha hơn vận tốc một góc $ \frac{\pi}2$
 
-### Dao động tắt dần
-
-Trong một chu kỳ dao động, độ giảm biên độ được tính theo công thức:
-$ \Delta A = 2 \Delta A' = \frac{4 \mu mg}k$
-
-Biên độ dao động giảm dần đều sau mỗi chu kỳ được tính theo công thức:
-
-$ \Delta A = \frac{4 \mu g}{\omega ^2}$
-
-* $ A: $ biên độ dao động (m)
-
-* $ \mu :$ hệ số ma sát
-
-* $ \omega :$ tần số góc (rad/s)
-
-* $E :$ năng lượng (J)
-
-### Dao động cưỡng bức
-
 ### Sóng cơ
+
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+* “Sóng ngang là sóng mà các phần tử vật chất của môi trường có
+  phương dao động vuông góc với phương truyền sóng”. Các sóng ngang không xuất hiện trong chất lỏng và chất khí.
+
+* “Sóng dọc” xuất hiện khi có “sự giãn nén” của các phần tử vật chất trong một môi trường nhất định.
+
+* Sóng mặt: là loại sóng chỉ truyền trong lớp mỏng của không gian (hầu như trong không gian hai chiều)
+
+* Nhiễu xạ là hiện tượng sóng đi qua khe hẹp hoặc khi gặp vật cản thì nó bị lệch khỏi phương truyền thẳng và đi vòng qua vật cản
 
 ### Sóng âm
 
@@ -135,6 +140,60 @@ $ \Delta A = \frac{4 \mu g}{\omega ^2}$
 ### Ứng dụng
 
 ## Chương 3: Cơ học chất lưu
+
+### Tĩnh học chất lưu
+
+* PT thuỷ tĩnh:
+
+  $p = p_o + \rho gh$
+
+* Siphon:
+
+  $p_c = p_0 + \rho gh$
+
+* Định luật Pascal:
+
+  $ p = p_{ng} + \rho gh$
+
+* Hiện tượng mao dẫn: chỉ có vật nằm trên bề mặt
+
+  $ p_i = \frac{a}{V_\mu^2}$
+
+* Năng lượng mặt ngoài của chất lỏng
+
+  $ W =  \sigma S$
+
+  Thế năng cực tiểu => xu hướng giảm
+
+* Lực căng mặt ngoài của chất lỏng:
+
+  $ F = \sigma l$
+
+* Góc làm ướt:
+
+  $ \theta < 90^o$: làm ướt thành bình
+
+  $ \theta > 90^o$: không làm ướt thành bình
+
+* Áp suất phụ ($ \Delta p$): Áp suất phụ cùng chiếu với áp suất phân tử $\Leftrightarrow \Delta p > 0$:
+
+  $ \Delta p = \sigma (\frac{1}{R_1} + \frac{1}{R_2}) $
+
+  Mặt chất lỏng dạng hình cầu:
+
+  $ \Delta p = \frac{2\sigma}R$
+
+  Mặt chất lỏng dạng hình trụ
+
+  $ \Delta p = \frac{\sigma}R$
+
+  Công thức Jurin
+
+  $ h = \frac{2\sigma cos\theta}{r\rho g}$
+
+  ![jurin](/notable/vlck-jurin.png)
+
+* Ống đếm giọt: $ P = F $
 
 ### Định luật Pascal, Laplace, áp suất thuỷ tĩnh, lực đẩy Archimedes. lực căng  mặt ngoài
 

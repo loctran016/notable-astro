@@ -5,6 +5,13 @@ import sitemap from '@astrojs/sitemap';
 import remarkMath from 'remark-math';
 import tailwind from '@astrojs/tailwind';
 import svelte from '@astrojs/svelte';
+// import remarkMermaid from 'astro-diagram/remark-mermaid';
+
+// import mdx from '@astrojs/mdx';
+// import expressiveCode from 'astro-expressive-code';
+// import remarkMermaid from 'remark-mermaidjs';
+
+// import expressiveCode from 'astro-expressive-code';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,10 +24,14 @@ export default defineConfig({
             applyBaseStyles: false,
         }),
         svelte(),
+        // expressiveCode(),
     ],
     markdown: {
         syntaxHighlight: 'prism',
-        remarkPlugins: [remarkMath],
+        remarkPlugins: [
+            remarkMath,
+            // remarkMermaid
+        ],
         rehypePlugins: [rehypeKatex],
         // remarkPlugins: [remarkMath],
         // remarkPlugins: [[remarkToc, { heading: 'toc', maxDepth: 3 }]],

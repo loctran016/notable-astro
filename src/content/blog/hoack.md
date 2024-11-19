@@ -2,7 +2,7 @@
 title: 'Ôn Hoá Đại Cương Thi CK'
 description: ''
 pubDate: 'Nov 13 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/hoack-bg.avif'
 tags: ['Hoá Y']
 draft: true
 ---

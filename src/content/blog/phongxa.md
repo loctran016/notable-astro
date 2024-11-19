@@ -24,19 +24,12 @@ $ E = mc^2$
 
 Đơn vị: kg và m/s
 
-
-
-
-
 m<sub>p</sub> = 1,00728 amu
 
 m<sub>n</sub> = 1,00867 amu
 
-
 1 amu có năng lượng tương ứng 931,5 MeV
 
-
 1 amu  =  1,66055 × 10<sup>-27</sup>kg
-
 
 m<sub>e</sub>  =  9,1 × 10<sup>-31</sup>kg = 5,48 × 10<sup>-4</sup> amu
