@@ -44,6 +44,8 @@ Vai trò:
 
 * Nơi tiếp xúc với khung xương tế bào
 
+
+
 ## Ti thể (Mitochondria)
 
 mtDNA chủ yếu ở não và tim (các cơ quan khác k rõ rệt)

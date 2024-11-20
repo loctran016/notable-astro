@@ -3,8 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
+    "dev": "astro dev --open",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
@@ -43,6 +42,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.15",
     "markdownlint-cli": "^0.42.0",
+    "playwright": "^1.49.0",
     "prettier": "3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.8",
     "run-script-os": "^1.1.6",

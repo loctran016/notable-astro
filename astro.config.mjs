@@ -8,8 +8,8 @@ import svelte from '@astrojs/svelte';
 // import remarkMermaid from 'astro-diagram/remark-mermaid';
 
 // import mdx from '@astrojs/mdx';
-// import expressiveCode from 'astro-expressive-code';
-// import remarkMermaid from 'remark-mermaidjs';
+import expressiveCode from 'astro-expressive-code';
+import remarkMermaid from 'remark-mermaidjs';
 
 // import expressiveCode from 'astro-expressive-code';
 
@@ -18,20 +18,17 @@ export default defineConfig({
     site: 'https://titieo.github.io/',
     base: '/notable/',
     integrations: [
+        expressiveCode(),
         mdx(),
         sitemap(),
         tailwind({
             applyBaseStyles: false,
         }),
         svelte(),
-        // expressiveCode(),
     ],
     markdown: {
         syntaxHighlight: 'prism',
-        remarkPlugins: [
-            remarkMath,
-            // remarkMermaid
-        ],
+        remarkPlugins: [remarkMath, remarkMermaid],
         rehypePlugins: [rehypeKatex],
         // remarkPlugins: [remarkMath],
         // remarkPlugins: [[remarkToc, { heading: 'toc', maxDepth: 3 }]],
