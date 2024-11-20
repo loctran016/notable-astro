@@ -238,17 +238,104 @@ Gia tốc ngược pha với li độ và sớm pha hơn vận tốc một góc 
 
 ### Dòng chảy của máu
 
+### CLS DẪN LƯU MÀNG DỊCH PHỔI
+
+Van Heimlich:
+
+* Thở ra áp suất khoang màng phổi lớn nên áp suất động nhỏ, vận tốc nhỏ, tiết diện của ống lớn, khí dịch khg màng phổi đẩy ra ngoài
+
+* Khi hít vào Áp suát tĩnh dọc theo van giảm, vận tốc tăng, tiết diện giảm, làm ống khép lại nhanh, ngăn khí từ bên ngoài vào
+  Dẫn lưu dịch bằng penrose (áp suất phụ, chiều dài nhỏ, R cũng nhỏ)
+  
+  Hê thống bình:
+
+* Bán kính càng lớn thì áp suất phụ càng nhỏ, ống dẫn lưu dịch từ cơ thể ra ng
+
+* Sự đóng góp của áp suất phụ trong ống penrose bị bỏ qua (áp suất phụ, chiều dài nhỏ, R cũng nhỏ), chủ yếu là nhờ trọng lực (chiều cao của dòng chất lỏng) chảy từ trên xuống
+
+| Hệ thống 1 bình                                                 | Hệ thống 2 bình                |
+|:---------------------------------------------------------------:|:------------------------------:|
+| Cột chất lỏng thay đổi hiệu quả dẫn lưu, nguy cơ hút ngược dịch | Hiệu quả cao, không có nguy cơ |
+| Đơn giản, thay bình thường xuyên                                | Phức tạp, ít thay bình         |
+
 ## Chương 4: Thuyết động học Phân Tử
 
 ### PT khí lí tưởng
 
-### Định luật Fick, Henry
+$pV = nRT $
 
-### PT thẩm thấu áp suất
+* ĐL Boyle: $pV = const$
+
+* ĐL Gay: $\frac{V}T=const$
+
+* ĐL Charles: $\frac{p}T = const$
+
+### Định luật Fick, Henry, PT thẩm thấu áp suất
+
+Định luật Fick: Lượng chất khuếch tán qua màng
+
+$\Delta M=-D\frac{d \rho}{dx} \Delta S.\Delta t$
+
+Định luật Henry: Lượng khí khuếch tán vào chất lỏng tỉ lệ thuận với áp suất riêng phần của chất khí đó trên bề mặt chất lỏng
+
+$ V = D \frac{p_n}p$
+
+PT ASTT:
+
+$p = nC_MRT$
+
+### CLS: RỐI LOẠN TRAO ĐỔI KHÍ TRONG BỆNH LÝ TẠI PHỔI
+
+$P_AO2 = FiO2(P_0 - P_{H_2O}) \ – \ P_ACO2/k$
+
+Với P<sub>0</sub> = áp suất khí quyển=760mmHg, P<sub>H<sub>2</sub>O</sub> = 47mmHg
+
+PACO2=37mmHg; k=0,8
+
+Ở điều kiện hít khí trời, FiO2=21% thì P<sub>A</sub>O<sub>2</sub> = 103,48
+
+$P_AO_2/P_aO_2=P’_AO_2/P’_aO_2$
+
+Tăng P<sub>a</sub>O2 từ 50 lên 60mmHg nên tính ra được P’AO2=124,136 → FiO2 khi thở Canula tối thiểu là 23,90%.
+
+*Mỗi tăng 4% FiO2 ta cần 1 lít O2/phút.*
 
 ## Chương 5: Nhiệt động lực học
 
-### Nguyên lý thứ nhất và thứ hai
+### Nguyên lý thứ nhất
+
+Công:
+
+$A=-p(V_1-V_2)$
+
+Độ biến thiên nội năng (năng lượng) của một hệ trong một quá trình biến đổi bằng tổng công và nhiệt lượng mà hệ nhận vào trong quá trình đó.
+
+Quá trình hữu hạn: $\Delta U = A + Q$
+
+Động cơ vĩnh cửu loại 1: Một động cơ có khả năng sinh ra công mà không cần nhận
+năng lượng ở đầu vào là động cơ vĩnh cửu loại một
+
+$\Rightarrow$ Cơ thể muốn hoạt động thì cần nhận năng lượng từ bên ngoài. Công cơ thể gồm: công hoá học, cơ học, thẩm thấu, điện
+
+
+
+* Nhiệt sơ cấp (Nhiệt cơ bản): quá trình trao đổi chất, tỷ lệ thuận với cường độ trao đổi chất và tỷ lệ nghịch với hiệu suất của chúng.
+
+* Nhiệt thứ cấp (Nhiệt hoạt động): quá trình sinh công khác nhau, tỷ lệ với hoạt tính của mô, hoạt động của cơ.
+
+
+
+Nguyên lý thứ nhất nói lên sự tương đương về số lượng giữa nhiệt và công và có thể chuyển hóa lẫn nhau nhưng không nêu lên được khả năng xảy ra và chiều diễn biến của một quá trình nhiệt cho trước.
+
+### Nguyên lý thứ hai
+
+Phát biểu của Planck Xét động cơ nhiệt nhận nhiệt lượng Q1 của nguồn nhiệt T1 và nhả
+nhiệt lượng Q2 cho nguồn nhiệt T2
+“Không thể chế tạo được một động cơ thực hiện một chu trình biến đổi để sinh công mà chỉ nhận nhiệt lượng từ nguồn nhiệt duy nhất”
+
+
+
+
 
 * Dùng để tính được năng lượng cần cung cấp cho cơ thể nhằm đáp ứng các nhu cầu khác nhau của cơ thể
 
@@ -335,6 +422,8 @@ Trong tế bào cơ tim có một giai đoạn bình nguyên, điện thế tư�
 
 ![ECG](/notable/vlck-ecg.png)
 
+### CLS: HOẠT ĐỘNG ĐIỆN CỦA TẾ BÀO CƠ TIM
+
 ## Chương 7: Tương tác của ánh sáng với môi trường
 
 ### Nội dung
@@ -388,7 +477,7 @@ Nhiễu xạ ánh sáng: ánh sáng bị lệch phương trên những vật c�
 
 Ánh sáng tự nhiên: AS có $\overrightarrow E$  dao động một cách đều đặn theo tất cả mọi phương vuông góc với tia sáng (không có phương nào ưu tiên hơn)
 
-Ánh sáng phân cực toàn phần (Ánh sáng phân cực thẳng): chỉ 1 phương xác định vuông góc 
+Ánh sáng phân cực toàn phần (Ánh sáng phân cực thẳng): chỉ 1 phương xác định vuông góc
 
 Ánh sáng phân cực toàn phần: mọi phương vuông góc nhưng phương mạnh phương yếu.
 
@@ -406,6 +495,32 @@ Khi ánh sáng truyền đi, các lượng tử ánh sáng **không bị thay đ
 Ở người bình thường, góc phân li tối thiểu bằng 1 phút cung (ứng với thị lực 10/10). Do người ta thường dụng bảng đo thị lực có nét chữ là 1,5mm nên cần đứng cách bảng đo 1 khoảng:
 $OA=\frac{AB}{tan⁡α} =\frac{1,5.10^{-3}}{tan (1/60)}  = 5,1566 m$
 
+Ông này có thể đọc sách trong khoảng 50 - 67 cm → Giới hạn nhìn
+rõ: 50 - 67 cm.
+
+* Điểm cực cận của mắt ông A là 50cm > 25cm → Lão thị.
+
+* Điểm cực viễn của mắt ông A là 67cm < vô cực → Cận thị.
+
+$ D = \frac{1}f=\frac{1}{a_1} + \frac{n}{a_2}$
+
+Với: D là độ tụ, f là tiêu cự;
+
+n là chiết suất môi trường (chiết suất không khí bằng 1);
+
+a<sub>1</sub>,a<sub>2</sub> lần lượt là khoảng cách từ vật và ảnh đến quang tâm của mắt.
+
+Để ông A nhìn xa vô cùng không cần điều tiết thì (thấu kính phân kì):
+
+$D=\frac1∞+\frac1{-OC_v}=0+\frac1{-0,67}=-1,5 \ dp$
+
+Để ông A đọc sách (giả sử cách mắt 25 cm) thì  (thấu kính hội tụ):
+
+$D=\frac1{0,25}+\frac1{-OC_c}=4+\frac1{-0,5}=-2 \ dp$
+
+***Vitamin A (retinol)***:
+
+* Vitamin A $\rightleftarrows$ Retinol-Binding Protein (RBP)
 
 ### HẤP THU ÁNH SÁNG
 
@@ -429,8 +544,6 @@ Mật độ quang của mẫu: khả năng hấp thu ánh sáng của vật ch�
 $D = γ.C. ℓ = lg(I_0/I)$
 
 * Mật độ quang của mẫu tỷ lệ thuận với nồng độ của chất trong mẫu và quang lộ
-
-*
 
 ### PHỔ HẤP THU
 
