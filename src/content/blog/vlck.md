@@ -118,7 +118,7 @@ $ 𝐹_𝑠  = 𝐹 . cos(\theta). $ -->
 1J = 1 N.m
 
 * Động năng $ K = \frac{1}2 mv^2$
-
+  
   <!-- * $ Động năng K = \frac{1}2 mv^2$ -->
 
 * Thế năng $ U = mgh $
@@ -182,53 +182,53 @@ Gia tốc ngược pha với li độ và sớm pha hơn vận tốc một góc 
 ### Tĩnh học chất lưu
 
 * PT thuỷ tĩnh:
-
+  
   $p = p_o + \rho gh$
 
 * Siphon:
-
+  
   $p_c = p_0 + \rho gh$
 
 * Định luật Pascal:
-
+  
   $ p = p_{ng} + \rho gh$
 
 * Hiện tượng mao dẫn: chỉ có vật nằm trên bề mặt
-
+  
   $ p_i = \frac{a}{V_\mu^2}$
 
 * Năng lượng mặt ngoài của chất lỏng
-
+  
   $ W =  \sigma S$
-
+  
   Thế năng cực tiểu => xu hướng giảm
 
 * Lực căng mặt ngoài của chất lỏng:
-
+  
   $ F = \sigma l$
 
 * Góc làm ướt:
-
+  
   $ \theta < 90^o$: làm ướt thành bình
-
+  
   $ \theta > 90^o$: không làm ướt thành bình
 
 * Áp suất phụ ($ \Delta p$): Áp suất phụ cùng chiếu với áp suất phân tử $\Leftrightarrow \Delta p > 0$:
-
+  
   $ \Delta p = \sigma (\frac{1}{R_1} + \frac{1}{R_2}) $
-
+  
   Mặt chất lỏng dạng hình cầu:
-
+  
   $ \Delta p = \frac{2\sigma}R$
-
+  
   Mặt chất lỏng dạng hình trụ
-
+  
   $ \Delta p = \frac{\sigma}R$
-
+  
   Công thức Jurin
-
+  
   $ h = \frac{2\sigma cos\theta}{r\rho g}$
-
+  
   ![jurin](/notable/vlck-jurin.png)
 
 * Ống đếm giọt: $ P = F $
@@ -273,9 +273,9 @@ $ V = \frac{61,5}{Q}.log(\frac{C_o}{C_i}) \ \ \ (mV)$
 
 * Quy luật "tất cả hoặc không" (Sợi thần kinh chỉ phản ứng tối
   đa hoặc không phản ứng):
-
+  
   * Kích thích đạt ngưỡng: tạo xung động với biên độ tối đa
-
+  
   * Tăng cường độ hay thời gian của nguồn kích thích: xung vẫn có biên độ tối đa như trên, chỉ tăng **tần số**
 
 ### Dẫn truyền xung thần kinh
@@ -285,7 +285,7 @@ Lan truyền xung thần kinh:
 Truyền tin qua synap:
 
 * Synap hoá học, Synap điện
-*
+* 
 
 Các hormone chính:
 
