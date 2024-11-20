@@ -160,12 +160,11 @@ Gia tốc ngược pha với li độ và sớm pha hơn vận tốc một góc 
 
 ### Sóng cơ
 
-* “Sóng ngang là sóng mà các phần tử vật chất của môi trường có
-  phương dao động vuông góc với phương truyền sóng”. Các sóng ngang không xuất hiện trong chất lỏng và chất khí.
+* “Sóng ngang: phương dao động vuông góc với phương truyền sóng”, không xuất hiện trong chất lỏng và chất khí.
 
 * “Sóng dọc” xuất hiện khi có “sự giãn nén” của các phần tử vật chất trong một môi trường nhất định.
 
-* Sóng mặt: là loại sóng chỉ truyền trong lớp mỏng của không gian (hầu như trong không gian hai chiều)
+* Sóng mặt: là loại sóng chỉ truyền trong lớp mỏng của không gian (hầu như trong không gian 2D)
 
 * Nhiễu xạ là hiện tượng sóng đi qua khe hẹp hoặc khi gặp vật cản thì nó bị lệch khỏi phương truyền thẳng và đi vòng qua vật cản
 
@@ -271,12 +270,11 @@ $ V = \frac{61,5}{Q}.log(\frac{C_o}{C_i}) \ \ \ (mV)$
 
 Điện thế hoạt động:
 
-* Quy luật "tất cả hoặc không" (Sợi thần kinh chỉ phản ứng tối
-  đa hoặc không phản ứng):
+* Quy luật "tất cả hoặc không":
   
-  * Kích thích đạt ngưỡng: tạo xung động với biên độ tối đa
+  * Kích thích đạt ngưỡng: xung động với biên độ tối đa
   
-  * Tăng cường độ hay thời gian của nguồn kích thích: xung vẫn có biên độ tối đa như trên, chỉ tăng **tần số**
+  * Tăng cường độ/thời gian kích thích: xung vẫn có biên độ tối đa như trên, chỉ tăng **tần số**
 
 ### Dẫn truyền xung thần kinh
 
@@ -285,7 +283,6 @@ Lan truyền xung thần kinh:
 Truyền tin qua synap:
 
 * Synap hoá học, Synap điện
-* 
 
 Các hormone chính:
 
@@ -391,9 +388,9 @@ Nhiễu xạ ánh sáng: ánh sáng bị lệch phương trên những vật c�
 
 Ánh sáng tự nhiên: AS có $\overrightarrow E$  dao động một cách đều đặn theo tất cả mọi phương vuông góc với tia sáng (không có phương nào ưu tiên hơn)
 
-Ánh sáng phân cực toàn phần (Ánh sáng phân cực thẳng):chỉ dao động theo 1 phương xác định vuông góc với phương truyền.
+Ánh sáng phân cực toàn phần (Ánh sáng phân cực thẳng): chỉ 1 phương xác định vuông góc 
 
-Ánh sáng phân cực toàn phần: mọi phương vuông góc với tia sáng nhưng có phương mạnh phương yếu.
+Ánh sáng phân cực toàn phần: mọi phương vuông góc nhưng phương mạnh phương yếu.
 
 ### Quang lượng tử
 
@@ -401,15 +398,20 @@ $Ε = hf =
 \frac{ℎ𝑐}
 λ$
 
-Phôtôn **chỉ tồn tại** trong trạng thái chuyển động. Trong chân
-không, photon bay với tốc độ dọc theo các tia sáng.
+Phôtôn **chỉ tồn tại** trong trạng thái chuyển động. Trong chân không, photon bay với tốc độ dọc theo các tia sáng.
 Khi ánh sáng truyền đi, các lượng tử ánh sáng **không bị thay đổi** và không phụ thuộc vào khoảng cách tới nguồn sáng.
+
+### CLS GIẢM THỊ LỰC – BỆNH QUÁNG GÀ
+
+Ở người bình thường, góc phân li tối thiểu bằng 1 phút cung (ứng với thị lực 10/10). Do người ta thường dụng bảng đo thị lực có nét chữ là 1,5mm nên cần đứng cách bảng đo 1 khoảng:
+$OA=\frac{AB}{tan⁡α} =\frac{1,5.10^{-3}}{tan (1/60)}  = 5,1566 m$
+
 
 ### HẤP THU ÁNH SÁNG
 
 Sự hấp thu ánh sáng là sự lưu giữ một phần ánh sáng $\Rightarrow$ cường độ ánh sáng sau khi ra khỏi môi trường giảm (thành chuyển động nhiệt hỗn lọan của nguyên tử)
 
-***Định luật Lambert - Beer:***
+**Định luật Lambert - Beer:**
 
 $I = I_o10^{-\alpha c l}$
 
