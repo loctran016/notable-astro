@@ -15,7 +15,7 @@ type Props = CollectionEntry<'blog'>['data'] & { headings: MarkdownHeading[] };
 const { title, description, pubDate, updatedDate, heroImage, headings  } = Astro.props;
 ---
 
-<html lang="en">
+<html lang="en" class="scrollbar-thumb-rounded-full scrollbar-thin scrollbar-track-transparent scrollbar-thumb-slate-400 scrollbar-corner-transparent overflow-y-scroll">
 	<head>
 		<BaseHead title={title} description={description} />
         <!-- <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> -->

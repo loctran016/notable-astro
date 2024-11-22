@@ -317,13 +317,9 @@ năng lượng ở đầu vào là động cơ vĩnh cửu loại một
 
 $\Rightarrow$ Cơ thể muốn hoạt động thì cần nhận năng lượng từ bên ngoài. Công cơ thể gồm: công hoá học, cơ học, thẩm thấu, điện
 
-
-
 * Nhiệt sơ cấp (Nhiệt cơ bản): quá trình trao đổi chất, tỷ lệ thuận với cường độ trao đổi chất và tỷ lệ nghịch với hiệu suất của chúng.
 
 * Nhiệt thứ cấp (Nhiệt hoạt động): quá trình sinh công khác nhau, tỷ lệ với hoạt tính của mô, hoạt động của cơ.
-
-
 
 Nguyên lý thứ nhất nói lên sự tương đương về số lượng giữa nhiệt và công và có thể chuyển hóa lẫn nhau nhưng không nêu lên được khả năng xảy ra và chiều diễn biến của một quá trình nhiệt cho trước.
 
@@ -332,10 +328,6 @@ Nguyên lý thứ nhất nói lên sự tương đương về số lượng gi�
 Phát biểu của Planck Xét động cơ nhiệt nhận nhiệt lượng Q1 của nguồn nhiệt T1 và nhả
 nhiệt lượng Q2 cho nguồn nhiệt T2
 “Không thể chế tạo được một động cơ thực hiện một chu trình biến đổi để sinh công mà chỉ nhận nhiệt lượng từ nguồn nhiệt duy nhất”
-
-
-
-
 
 * Dùng để tính được năng lượng cần cung cấp cho cơ thể nhằm đáp ứng các nhu cầu khác nhau của cơ thể
 

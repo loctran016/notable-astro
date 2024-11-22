@@ -1,5 +1,5 @@
 ---
-title: 'Hạt nhân & Phóng xạ'
+title: 'Cấu trúc tế bào'
 description: ''
 pubDate: 'Nov 13 2024'
 heroImage: '/blog-placeholder-3.jpg'
@@ -43,8 +43,6 @@ Vai trò:
 * Chỗ nối tế bào
 
 * Nơi tiếp xúc với khung xương tế bào
-
-
 
 ## Ti thể (Mitochondria)
 
