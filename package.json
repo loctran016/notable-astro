@@ -30,7 +30,7 @@
     "@astrojs/sitemap": "3.2.1",
     "@astrojs/svelte": "5.7.3",
     "@astrojs/tailwind": "5.1.2",
-    "astro": "4.16.10",
+    "astro": "4.16.17",
     "astro-expressive-code": "^0.38.3",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
